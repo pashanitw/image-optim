@@ -1,0 +1,12 @@
+.apple-class{
+    background-image: inline('apple.svg');
+}
+.banana-class{
+    background-image: inline('bananas.svg');
+}
+.pinapple-class{
+    background-image: inline('pineapple.svg');
+}
+.orange-class{
+    background-image: inline('orange.svg');
+}

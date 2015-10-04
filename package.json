@@ -1,0 +1,26 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "to generate assets pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pasha shaik",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-datauri-variables": "^0.4.0",
+    "gulp-imagemin": "^2.3.0",
+    "imagemin-pngquant": "^4.2.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-data-uri": "^0.2.0",
+    "grunt-svg-sprite": "^1.2.10",
+    "gulp-base64-inline": "^1.0.3",
+    "gulp-gzip": "^1.2.0",
+    "gulp-inline-svg": "^1.0.1",
+    "gulp-util": "^3.0.6",
+    "imagemin-mozjpeg": "^5.1.0"
+  }
+}

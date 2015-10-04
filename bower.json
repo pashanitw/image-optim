@@ -1,0 +1,17 @@
+{
+  "name": "assets",
+  "version": "0.0.0",
+  "authors": [
+    "pasha shaik"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
